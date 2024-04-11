@@ -45,7 +45,7 @@ func main() {
 			log.Fatalf("Failed to encode JSON: %v", err)
 	}
 	// create the file
-	file, err := os.Create("listings.json")
+	file, err := os.Create("output.json")
 	if err != nil {
 		log.Fatalf("Failed to create file: %v", err)
 	}
