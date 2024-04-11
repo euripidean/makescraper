@@ -1,6 +1,6 @@
 # 🕷 makescraper
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/YOUR_GITHUB_USERNAME/makescraper)](https://goreportcard.com/report/github.com/YOUR_GITHUB_USERNAME/makescraper)
+[![Go Report Card](https://goreportcard.com/badge/github.com/euripidean/makescraper)](https://goreportcard.com/report/github.com/euripidean/makescraper)
 
 _Create your very own web scraper and crawler using Go and [Colly](https://go-colly.org)!_
 
@@ -24,13 +24,13 @@ _Create your very own web scraper and crawler using Go and [Colly](https://go-co
 1. Visit [github.com/new](https://github.com/new) and create a new repository named `makescraper`.
 2. Run each command line-by-line in your terminal to set up the project:
 
-    ```bash
-    $ git clone git@github.com:Make-School-Labs/makescraper.git
-    $ cd makescraper
-    $ git remote rm origin
-    $ git remote add origin git@github.com:YOUR_GITHUB_USERNAME/makescraper.git
-    $ go mod download
-    ```
+   ```bash
+   $ git clone git@github.com:Make-School-Labs/makescraper.git
+   $ cd makescraper
+   $ git remote rm origin
+   $ git remote add origin git@github.com:YOUR_GITHUB_USERNAME/makescraper.git
+   $ go mod download
+   ```
 
 3. Open `README.md` in your editor and replace all instances of `YOUR_GITHUB_USERNAME` with your GitHub username to enable the Go Report Card badge.
 
